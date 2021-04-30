@@ -1,0 +1,9 @@
+it would log:
+
+"Product 2"
+"Product 3"
+"Product not found!"
+
+It logs this because the switch statement has no breaks written in.
+once the case matches, it follows through with executing the rest of the case clauses.
+
