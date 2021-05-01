@@ -1,0 +1,1 @@
+The condition for the while loop is set as a truthy value. every time the loop repeats, the condition will always remain truthy.

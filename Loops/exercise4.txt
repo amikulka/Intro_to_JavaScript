@@ -1,0 +1,2 @@
+The code does not produce an error
+the conditions for a for loop is are optional, and since the iterator is increased in value within the loop, the loop will eventualy break when i is 5.
