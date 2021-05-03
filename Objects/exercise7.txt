@@ -1,0 +1,3 @@
+they produce different outputs
+Object.keys only returns the object's owned keys, not inherited keys
+where as the for...in cycles through all the keys including the inherited ones.

@@ -1,0 +1,2 @@
+all of them can be used as keys but JavaScript will turn them all into strings.
+so if you use true, the key will not be a boolean, but coerced into the string 'true'.
