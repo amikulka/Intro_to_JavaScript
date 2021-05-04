@@ -1,0 +1,6 @@
+> let y = "5"
+> y++
+
+it returns 5.
+the value gets coerced into the number 5 with this operator
+since we used the post increment operator, it returns 5 but assigns the value 6 to y

@@ -1,0 +1,4 @@
+this logs [1, 4, 3] into the console
+when you assign array2, you point to the same location in memory as array1
+when you change one of the elements in array1, it does not change the location in memory
+since they both point to the same location in memory, the second element also changes for array2.

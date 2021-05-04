@@ -1,0 +1,3 @@
+it tells us that the variable greeting was never assigned a value
+the reference to greeting is located in the function hello - line 4 - character 15;
+we try to call the function hello at line 13.

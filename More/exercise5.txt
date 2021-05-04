@@ -1,0 +1,5 @@
+first it creates an array with every element being a string of each word in the original string.
+then it reverses the array
+then it creates a new array with the elements being the lengths of each of the words from the original string
+example : "the quick fox" =>
+[3, 5, 3]
